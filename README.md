@@ -1,7 +1,7 @@
 # mlnotes
 
 #### Description
-All machine learning related learning notes and assignments from 6/20/2018 until now.
+All machine learning related learning notes and assignments from 6/20/2018 until now.<br>
 Most of them are wrote in Jupyter-notebook with Python.
 
 #### Other links
