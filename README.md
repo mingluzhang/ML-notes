@@ -23,6 +23,6 @@ Assignments of mlcourse.ai learning project.
 * Gitee<br>
 [https://gitee.com/mingluzhang](https://gitee.com/mingluzhang)
 
-————————————————
+----
 ###### Created on 10/14/2018 by MingluZhang
 ###### Last modified on 10/17/2018
